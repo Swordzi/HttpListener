@@ -1,3 +1,5 @@
+// Complete credit goes to https://gist.github.com/mjohnsullivan/e5182707caf0a9dbdf2d. This is for me to learn some stuff related to rust 
+
 
 use std::net::{TcpStream, TcpListener};
 use std::io::{Read, Write};
